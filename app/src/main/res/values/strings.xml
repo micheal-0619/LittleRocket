@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LittleRocket</string>
+    <string name="title_activity_smoke_back">SmokeBackActivity</string>
+</resources>
